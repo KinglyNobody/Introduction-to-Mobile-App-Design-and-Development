@@ -1,0 +1,7 @@
+{
+  "name": "labworkGmail",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
